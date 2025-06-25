@@ -1,4 +1,4 @@
-# Gesture-Controlled-Gming-System
+# Gesture-Controlled-Gaming-System
 This is a hand gestured controlled gaming system used to control gaming actions by mapping them to gestures. This is a Machine Learning model created in Python language using various ML libraries like OpenCV and MediaPipe.
 For initializing we need to install upgraded version of python and libraries:-
 tensorflow
